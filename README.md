@@ -1,6 +1,7 @@
-## rock-paper-scissors
+### Rock Paper Scissors
 ```
-This website is a virtual implementation of the
-rock paper scissors game. The project was done using HTML and CSS
-for frontend and interactivity was established using Javascript.
+This is an assignment done as a part of Odin Foundation course.
+Here is an implementation of “Rock paper scissors” (simple and interesting game).
+
+Highly inspired by a video on freecodecamp youtube channel on "rock paper scissors" game
 ```
